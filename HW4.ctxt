@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HW4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numOfDiscs\ first\ middle\ last\ pw
+comment2.target=void\ threePegs(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.io.PrintWriter)
+comment3.params=numOfDiscs\ first\ second\ third\ last\ pw
+comment3.target=void\ fourPegs(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.io.PrintWriter)
+comment4.params=numOfDiscs\ first\ second\ third\ fourth\ last\ pw
+comment4.target=void\ fivePegs(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.io.PrintWriter)
+numComments=5
